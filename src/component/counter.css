@@ -1,0 +1,13 @@
+button{
+    margin: 2em;
+    font-size: 24px;
+    border: blueviolet 10%;
+    border-style: dotted;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 2em;
+}
